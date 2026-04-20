@@ -1,0 +1,6 @@
+{
+  "name": "Barakah Time",
+  "description": "Daily time management and prayer time alarm app designed for productivity and spiritual balance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
